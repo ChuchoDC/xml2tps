@@ -22,7 +22,7 @@ explorar los efectos de la alometría en su dataset.
 
 Esta pequeña aplicación es multiplataforma ya que está desarrollada en
 los lenguajes de ***python*** y ***r***. Su ejecución e instalación son
-sencillas; hemos agregado instrucciones para su uso, así como lisatado
+sencillas; hemos agregado instrucciones para su uso, así como listado
 las librerías necesarias para que se ejecute exitosamente en cualquiera
 de los lenguajes. <br> <br> <br> **Autores**:  
 Francisco Miranda Vázquez  
